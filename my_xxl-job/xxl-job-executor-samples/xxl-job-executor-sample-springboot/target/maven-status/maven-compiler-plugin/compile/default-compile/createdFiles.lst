@@ -1,0 +1,5 @@
+com\xxl\job\executor\service\jobhandler\ShardingJobHandler.class
+com\xxl\job\executor\XxlJobExecutorApplication.class
+com\xxl\job\executor\core\config\XxlJobConfig.class
+com\xxl\job\executor\service\jobhandler\HttpJobHandler.class
+com\xxl\job\executor\service\jobhandler\DemoJobHandler.class
